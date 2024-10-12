@@ -8,8 +8,7 @@ Design and implement a dynamic pipeline that processes multiple PDF documents fr
 
 # Approach Breakdown
 
-# >  Installed necessary libraries:
- pymongo for MongoDB interactions, pdfplumber for PDF text extraction, and requests for downloading files.
+i start with downloading necessary librarires such as  pymongo for MongoDB interactions, pdfplumber for PDF text extraction, and requests for downloading files.
 
 Loaded a JSON dataset containing URLs of the PDFs to be processed and established a connection to a local MongoDB database named pdf_summarization.
 
